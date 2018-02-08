@@ -17,7 +17,6 @@
                             <h3>Personal Details</h3>
                                 <div class="form-group">
                                     <label for="gender">Gender</label>
-                                    <br>
                                     <input name="gender" type="radio" value="0" name="male">
                                     <label for="gender">Male</label>
                                     <input name="gender" type="radio" value="1" name="female">
@@ -85,7 +84,6 @@
                                 </div>
                                 <div class="form-group">
                                     <label for="newsletter">Receive Newsletter</label>
-                                    <br>
                                     <input name="newsletter" type="radio" value="0" name="yes" checked>
                                     <label for="newsletter">Yes</label>
                                     <input name="newsletter" type="radio" value="1" name="no">
