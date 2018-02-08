@@ -1,0 +1,387 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"padding"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"positi",
+				"position"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"c",
+				"cover"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"text",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "resources/views/home.blade.php",
+			"settings":
+			{
+				"buffer_size": 695,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/F/wamp64/www/ecommercelaravel",
+		"/F/wamp64/www/ecommercelaravel/app",
+		"/F/wamp64/www/ecommercelaravel/app/Http",
+		"/F/wamp64/www/ecommercelaravel/app/Http/Controllers",
+		"/F/wamp64/www/ecommercelaravel/resources",
+		"/F/wamp64/www/ecommercelaravel/resources/views",
+		"/F/wamp64/www/ecommercelaravel/resources/views/admin",
+		"/F/wamp64/www/ecommercelaravel/resources/views/admin/categories",
+		"/F/wamp64/www/ecommercelaravel/resources/views/includes",
+		"/F/wamp64/www/ecommercelaravel/routes"
+	],
+	"file_history":
+	[
+		"/F/wamp64/www/ecommercelaravel/resources/views/admin/categories/view.blade.php",
+		"/F/wamp64/www/ecommercelaravel/resources/views/admin/brands/view.blade.php",
+		"/F/wamp64/www/ecommercelaravel/app/Http/Controllers/SiteController.php",
+		"/F/wamp64/www/ecommercelaravel/routes/web.php",
+		"/F/wamp64/www/ecommercelaravel/resources/views/includes/header.blade.php",
+		"/F/wamp64/www/ecommercelaravel/resources/views/main.blade.php",
+		"/F/wamp64/www/ecommercelaravel/public/css/custom.css",
+		"/F/wamp64/www/ecommercelaravel/app/Http/Controllers/ProductController.php",
+		"/F/wamp64/www/ecommercelaravel/app/Http/Controllers/BrandController.php",
+		"/F/wamp64/www/ecommercelaravel/app/Product.php",
+		"/F/wamp64/www/ecommercelaravel/app/Http/Controllers/CategoryController.php",
+		"/F/wamp64/www/ecommercelaravel/resources/views/admin/brands/edit.blade.php",
+		"/F/wamp64/www/ecommercelaravel/app/ProductImage.php",
+		"/F/wamp64/www/ecommercelaravel/resources/views/admin/products/create.blade.php",
+		"/F/wamp64/www/ecommercelaravel/resources/views/home.blade.php",
+		"/F/wamp64/www/ecommercelaravel/resources/views/admin/products/view.blade.php",
+		"/F/wamp64/www/ecommercelaravel/resources/views/admin/tags/view.blade.php",
+		"/F/wamp64/www/ecommercelaravel/resources/views/admin/main.blade.php",
+		"/F/wamp64/www/ecommercelaravel/database/migrations/2018_02_02_185415_create_product_image_table.php",
+		"/F/wamp64/www/ecommercelaravel/database/migrations/2018_01_31_200248_create_users_table.php",
+		"/F/wamp64/www/ecommercelaravel/app/Http/Controllers/TagController.php",
+		"/F/wamp64/www/ecommercelaravel/app/Http/Controllers/UserController.php",
+		"/F/wamp64/www/ecommercelaravel/resources/views/admin/users/view.blade.php",
+		"/F/wamp64/www/ecommercelaravel/resources/views/admin/tags/edit.blade.php",
+		"/F/wamp64/www/ecommercelaravel/resources/views/admin/users/edit.blade.php",
+		"/F/wamp64/www/ecommercelaravel/resources/views/admin/users/create.blade.php",
+		"/F/wamp64/www/ecommercelaravel/app/User.php",
+		"/F/wamp64/www/ecommercelaravel/app/Tag.php",
+		"/F/wamp64/www/ecommercelaravel/resources/views/admin/brands/create.blade.php",
+		"/F/wamp64/www/ecommercelaravel/resources/views/admin/categories/edit.blade.php",
+		"/F/wamp64/www/ecommercelaravel/app/Brand.php",
+		"/F/wamp64/www/ecommercelaravel/app/Category.php",
+		"/F/wamp64/www/ecommercelaravel/resources/views/admin/categories/create.blade.php",
+		"/F/wamp64/www/ecommercelaravel/resources/views/admin/tags/create.blade.php",
+		"/C/Users/Daniel Paz/Downloads/productcrud (2)/app/Http/Controllers/ProductsController.php",
+		"/C/Users/Daniel Paz/Downloads/productcrud (2)/resources/views/products/edit.blade.php",
+		"/F/wamp64/www/ecommercelaravel/config/filesystems.php",
+		"/F/wamp64/www/ecommercelaravel/app/Http/Controllers/CouponController.php",
+		"/F/wamp64/www/ecommercelaravel/resources/views/admin/coupons/view.blade.php",
+		"/F/wamp64/www/ecommercelaravel/resources/views/admin/coupons/edit.blade.php",
+		"/F/wamp64/www/ecommercelaravel/resources/views/admin/coupons/create.blade.php",
+		"/F/wamp64/www/ecommercelaravel/app/Coupon.php",
+		"/F/wamp64/www/ecommercelaravel/database/migrations/2018_02_02_185220_create_coupons_table.php",
+		"/F/wamp64/www/ecommercelaravel/database/migrations/2018_01_31_204438_create_tags_table.php",
+		"/F/wamp64/www/ecommercelaravel/database/migrations/2018_01_31_204420_create_products_table.php",
+		"/F/wamp64/www/ecommercelaravel/database/migrations/2018_02_02_185415_create_table_product_image.php",
+		"/F/wamp64/www/ecommercelaravel/database/migrations/2018_02_01_090020_create_product_tag_table.php",
+		"/F/wamp64/www/ecommercelaravel/database/migrations/2018_02_02_185220_create_table_coupons.php",
+		"/F/wamp64/www/ecommercelaravel/database/seeds/DatabaseSeeder.php",
+		"/F/wamp64/www/ecommercelaravel/database/migrations/2014_10_12_000000_create_admins_table.php",
+		"/F/wamp64/www/ecommercelaravel/database/seeds/AdminTableSeeder.php",
+		"/F/wamp64/www/ecommercelaravel/database/migrations/2018_01_31_204450_create_method_of_payment.php",
+		"/F/xampp/htdocs/ecommercelaravel/public/css/admin.css",
+		"/F/xampp/htdocs/ecommercelaravel/app/Http/Controllers/BrandController.php",
+		"/F/xampp/htdocs/ecommercelaravel/app/Http/Controllers/CouponController.php",
+		"/F/xampp/htdocs/ecommercelaravel/app/Http/Controllers/UserController.php",
+		"/F/xampp/htdocs/ecommercelaravel/app/Http/Controllers/AdminController.php",
+		"/F/xampp/htdocs/ecommercelaravel/app/Tag.php",
+		"/F/xampp/phpMyAdmin/__config.inc.php",
+		"/F/xampp/phpMyAdmin/config.sample.inc.php",
+		"/F/xampp/htdocs/ecommercelaravel/database/seeds/EstatesTableSeeder.php",
+		"/F/xampp/htdocs/ecommercelaravel/database/seeds/RegionsTableSeeder.php",
+		"/F/xampp/htdocs/ecommercelaravel/database/migrations/2018_02_02_143423_create_cities_table.php",
+		"/F/xampp/htdocs/ecommercelaravel/routes/web.php",
+		"/F/xampp/htdocs/ecommercelaravel/app/Http/Controllers/CategoryController.php",
+		"/F/xampp/htdocs/ecommercelaravel/app/Http/Controllers/OrderController.php",
+		"/F/xampp/htdocs/ecommercelaravel/app/Http/Controllers/ProductController.php",
+		"/F/xampp/htdocs/ecommercelaravel/app/Http/Controllers/TagController.php",
+		"/F/xampp/htdocs/ecommercelaravel/resources/views/admin/main.blade.php",
+		"/F/xampp/htdocs/ecommercelaravel/resources/views/admin/tags/create.blade.php",
+		"/F/xampp/htdocs/ecommercelaravel/database/migrations/2018_02_02_143045_create_regions_table.php",
+		"/F/xampp/htdocs/ecommercelaravel/database/migrations/2018_02_02_143235_create_states_table.php",
+		"/F/xampp/htdocs/ecommercelaravel/database/seeds/CitiesTableSeeder.php",
+		"/F/xampp/phpMyAdmin/config.inc.php",
+		"/F/xampp/htdocs/ecommercelaravel/app/Site.php",
+		"/F/xampp/htdocs/ecommercelaravel/app/Http/Controllers/SiteController.php",
+		"/F/xampp/htdocs/ecommercelaravel/resources/views/admin/users/create.blade.php",
+		"/F/xampp/htdocs/ecommercelaravel/resources/views/admin/categories/create.blade.php",
+		"/F/xampp/htdocs/ecommercelaravel/resources/views/auth/register.blade.php",
+		"/F/xampp/htdocs/ecommercelaravel/resources/views/admin/users/view.blade.php",
+		"/F/xampp/htdocs/ecommercelaravel/app/Admin.php",
+		"/F/xampp/htdocs/ecommercelaravel/app/Http/Models/Admin.php",
+		"/F/xampp/htdocs/ecommercelaravel/app/Http/Models/Order.php",
+		"/F/xampp/htdocs/ecommercelaravel/app/Http/Controllers/Auth/AdminLoginController.php",
+		"/F/xampp/htdocs/ecommercelaravel/app/Http/Models/Product.php",
+		"/F/xampp/htdocs/ecommercelaravel/app/Http/Models/Tag.php",
+		"/F/xampp/htdocs/ecommercelaravel/app/Brand.php",
+		"/F/xampp/htdocs/ecommercelaravel/app/Category.php",
+		"/F/xampp/htdocs/ecommercelaravel/app/Order.php",
+		"/F/xampp/htdocs/ecommercelaravel/app/Product.php",
+		"/F/xampp/htdocs/ecommercelaravel/app/User.php",
+		"/F/xampp/htdocs/ecommercelaravel/app/Http/Controllers/Auth/LoginController.php",
+		"/F/xampp/htdocs/ecommercelaravel/resources/views/auth/admin-login.blade.php",
+		"/F/xampp/htdocs/ecommercelaravel/app/Http/Models/User.php",
+		"/F/xampp/htdocs/ecommercelaravel/app/Http/Models/Brand.php",
+		"/F/xampp/htdocs/ecommercelaravel/app/Http/Models/Category.php",
+		"/F/xampp/htdocs/ecommercelaravel/resources/views/admin/products/create.blade.php",
+		"/F/xampp/htdocs/ecommercelaravel/resources/views/admin/products/edit.blade.php",
+		"/F/xampp/htdocs/ecommercelaravel/resources/views/admin/products/view.blade.php",
+		"/F/xampp/htdocs/ecommercelaravel/public/css/custom.css",
+		"/F/xampp/htdocs/ecommercelaravel/resources/views/admin/categories/edit.blade.php",
+		"/F/xampp/htdocs/ecommercelaravel/resources/views/admin/brands/create.blade.php",
+		"/F/xampp/htdocs/ecommercelaravel/resources/views/admin/tags/list.blade.php",
+		"/F/xampp/htdocs/ecommercelaravel/resources/views/admin/home.blade.php",
+		"/F/xampp/htdocs/ecommercelaravel/app/Http/Controllers/Tag.php",
+		"/F/xampp/htdocs/ecommercelaravel/database/migrations/2014_10_12_000000_create_admins_table.php",
+		"/F/xampp/htdocs/ecommercelaravel/database/migrations/2018_01_31_200248_create_users_table.php",
+		"/F/xampp/htdocs/ecommercelaravel/database/migrations/2018_01_31_204501_create_orders_table.php",
+		"/F/xampp/htdocs/ecommercelaravel/resources/views/includes/header.blade.php",
+		"/F/xampp/htdocs/ecommercelaravel/resources/views/main.blade.php",
+		"/F/xampp/htdocs/ecommercelaravel/resources/views/home.blade.php",
+		"/F/xampp/htdocs/ecommercelaravel/app/Http/Middleware/RedirectIfAuthenticated.php",
+		"/F/xampp/htdocs/ecommercelaravel/app/Exceptions/Handler.php",
+		"/F/xampp/htdocs/ecommercelaravel/resources/views/about.blade.php",
+		"/F/xampp/htdocs/ecommercelaravel/config/auth.php",
+		"/F/xampp/htdocs/ecommercelaravel/resources/views/admin/auth/login.blade.php",
+		"/F/xampp/htdocs/ecommercelaravel/app/Http/Controllers/Auth/RegisterController.php",
+		"/F/xampp/htdocs/ecommercelaravel/app/Providers/AppServiceProvider.php",
+		"/F/xampp/htdocs/ecommercelaravel/database/migrations/2018_01_31_200248_create_customers_table.php",
+		"/F/xampp/htdocs/ecommercelaravel/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/F/xampp/htdocs/ecommercelaravel/database/migrations/2018_02_01_090020_create_product_tag_table.php",
+		"/F/xampp/htdocs/ecommercelaravel/database/migrations/2018_01_31_204420_create_products_table.php",
+		"/F/xampp/htdocs/ecommercelaravel/resources/views/includes/head.blade.php",
+		"/F/xampp/htdocs/ecommercelaravel/config/app.php",
+		"/F/xampp/htdocs/ecommercelaravel/composer.json",
+		"/F/xampp/htdocs/ecommercelaravel/database/migrations/2018_01_31_204343_create_categories_table.php",
+		"/F/xampp/htdocs/ecommercelaravel/database/migrations/2018_01_31_204403_create_brands_table.php",
+		"/F/xampp/htdocs/ecommercelaravel/database/migrations/2018_01_31_204438_create_tags_table.php"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"tag",
+			"image",
+			"tag",
+			"categories",
+			"category",
+			"brand_image",
+			"cate",
+			"category",
+			"tag",
+			"product"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "resources/views/home.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 695,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								326,
+								326
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ecommercelaravel.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 360.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
