@@ -1,6 +1,4 @@
 @extends('main')
 @section('content')
-
-lista dos produtos
-
+<h2>Under construction</h2>
 @endsection

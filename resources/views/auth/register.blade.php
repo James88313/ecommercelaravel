@@ -15,8 +15,9 @@
                     <div class="row">
                         <div class="col-md-4">
                             <h3>Personal Details</h3>
-                                <div class="form-group">
+                                <div class="form-group gender-register">
                                     <label for="gender">Gender</label>
+                                    <br>
                                     <input name="gender" type="radio" value="0" name="male">
                                     <label for="gender">Male</label>
                                     <input name="gender" type="radio" value="1" name="female">
@@ -49,7 +50,7 @@
                                 </div>
                                 <div class="md-form">
                                     <i class="fa fa-address-card prefix grey-text"></i>
-                                    <input type="date" name="birth" class="form-control">
+                                    <input type="date" id="birth" name="birth" class="form-control">
                                     <label for="birth">Birth</label>
                                 </div>
                         </div>
@@ -66,24 +67,23 @@
                                     <label for="postal">Postal Code</label>
                                 </div>
                                 <div class="md-form">
-                                    <div class="row">
-                                        <div class="col-md-5">
+                                            <i class="fa fa-map-signs prefix grey-text"></i>
                                             <input type="text" name="estate" class="form-control">
                                             <label>Estate</label>
-                                        </div>
-                                        <div class="col-md-7">
-                                            <input type="text" name="city" class="form-control">
-                                            <label>City</label>
-                                        </div>
-                                    </div>
                                 </div>
                                 <div class="md-form">
-                                    <i class="fa fa-map-marker-alt prefix grey-text"></i>
+                                    <i class="fa fa-map-signs prefix grey-text"></i>
+                                            <input type="text" name="city" class="form-control">
+                                            <label>City</label>
+                                </div>
+                                <div class="md-form">
+                                    <i class="fa fa-map-signs prefix grey-text"></i>
                                     <input type="text" name="address" class="form-control">
                                     <label for="address">Your address</label>
                                 </div>
-                                <div class="form-group">
+                                <div class="form-group newsletter-register">
                                     <label for="newsletter">Receive Newsletter</label>
+                                    <br>
                                     <input name="newsletter" type="radio" value="0" name="yes" checked>
                                     <label for="newsletter">Yes</label>
                                     <input name="newsletter" type="radio" value="1" name="no">
