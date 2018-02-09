@@ -7,10 +7,8 @@
                     <p></p>
                 </div>
                 <div class="row">
-                    <a class="btn btn-default">Cart</a>
-
-                    <a class="btn btn-success">Checkout</a>
-                    
+                    <a href="{!! url('/cart') !!}" class="btn btn-default">Cart</a>
+                    <a href="{!! url('/checkout') !!}" class="btn btn-success">Checkout</a>
                 </div>
                 <div class="row">
                     <p></p>
