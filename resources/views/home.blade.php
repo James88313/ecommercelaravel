@@ -19,7 +19,7 @@
 
             <span class="brand">{{ $product->brand->name }}</span>
 
-            <span class="price">$ {!! number_format($product->price/100,2) !!}</span>
+            <span class="price">$ {!! $product->price !!}</span>
             <a href="{!! url('/details/'.$product->id.'/'.$product->slug.'') !!}">[+] details</a>
 
         </div>
