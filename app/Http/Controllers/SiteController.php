@@ -92,14 +92,16 @@ if( strlen(session()->get('user_id')) <= 0 ){
         $shopcart_list = Order::where('user_id', session()->get('user_id'))->with('firstimage')->with('product')->get();
         $brands = Brand::all();
         $categories = Category::all();
-        $product = Product::get();
+
+        $products = Product::where('category_id', $category)->get();
 
         return view('products', [
             'brands' => $brands,
             'categories' => $categories,
             'shopcart_sum' => $shopcart_sum,
             'shopcart_list' => $shopcart_list,
-            'product' => $product,
+            'products' => $products,
+            'category' => $category,
         ]);
     }
 

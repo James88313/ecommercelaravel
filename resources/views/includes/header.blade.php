@@ -1,7 +1,14 @@
 <div class="offcanvas-container" id="mobile-menu">
    <a class="account-link" href="{!! url('/account-orders') !!}">
       <div class="user-info">
-         <h6 class="user-name">Daniel Adams</h6>
+         <h6 class="user-name">
+            @if(!Auth::guest())
+               Welcome, {!! Auth::user()->name; !!}
+            @endif
+            @if(Auth::guest())
+               Welcome, Guest
+            @endif
+         </h6>
       </div>
    </a>
    <nav class="offcanvas-menu">
@@ -9,7 +16,7 @@
          <li class="has-megamenu {{ Request::is('/') ? "active" : "" }}"><a href="{!! url('/') !!}"><span>Home</span></a></li>
          <li class="has-megamenu {{ Request::is('about') ? "active" : "" }}"><a href="{!! url('/about') !!}"><span>About</span></a></li>
          @foreach($categories as $category)
-         <li class="has-megamenu"><a href="{{ url('category/'.$category->slug) }}"><span>{{ $category->name }}</span></a></li>
+         <li class="has-megamenu"><a href="{{ url('category/'.$category->id.'-'.$category->slug) }}"><span>{{ $category->name }}</span></a></li>
          @endforeach
       </ul>
    </nav>
@@ -29,7 +36,7 @@
          <li class="has-megamenu {{ Request::is('/') ? "active" : "" }}"><a href="{!! url('/') !!}"><span>Home</span></a></li>
          <li class="has-megamenu {{ Request::is('about') ? "active" : "" }}"><a href="{!! url('/about') !!}"><span>About</span></a></li>
          @foreach($categories as $category)
-         <li class="has-megamenu"><a href="{{ url('category/'.$category->slug) }}"><span>{{ $category->name }}</span></a></li>
+         <li class="has-megamenu"><a href="{{ url('category/'.$category->id.'-'.$category->slug) }}"><span>{{ $category->name }}</span></a></li>
          @endforeach
       </ul>
    </nav>
@@ -45,10 +52,10 @@
                      <div class="user-info">
                         <h6 class="user-name">
                            @if(!Auth::guest())
-                           {!! Auth::user()->name; !!}
+                              Welcome, {!! Auth::user()->name; !!}
                            @endif
                            @if(Auth::guest())
-                           Welcome, Guest
+                              Welcome, Guest
                            @endif
                         </h6>
                      </div>
