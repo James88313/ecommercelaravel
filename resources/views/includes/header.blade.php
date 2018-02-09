@@ -73,7 +73,7 @@
                   @foreach($shopcart_list as $shopcartlist)
                   <div class="dropdown-product-item">
                      <a class="dropdown-product-thumb">
-                        <img src="{!! url('images/products/'.$shopcartlist['firstimage']['product_id'].'/'.$shopcartlist['firstimage']['image'].'') !!}" alt="{!! $shopcartlist['product']->name !!}">
+                        <img src="{!! url('images/products/'.$shopcartlist['firstimage']['product_id'].'/'.$shopcartlist['firstimage']['image'].'') !!}" alt="{!! $shopcartlist['product']->name !!}" />
                      </a>
                      <div class="dropdown-product-info">
                         <a class="dropdown-product-title" href="">

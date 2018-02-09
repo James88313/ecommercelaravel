@@ -23,7 +23,7 @@ Auth::routes();
   Route::get('/orders', 'SiteController@orders');
   Route::get('/cart', 'SiteController@cart');
   Route::get('/cart/remove/{id}', 'SiteController@cart_remove');
-  Route::get('/checkout', 'SiteController@checkout');
+  Route::get('checkout', 'SiteController@checkout')->middleware('auth');
   Route::get('/category/{category}', 'SiteController@category');
   Route::get('/logout' , 'Auth\LoginController@logout');
 

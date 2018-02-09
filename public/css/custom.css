@@ -545,9 +545,22 @@ input#news-email {
 #checkout .panel-footer{
     background:#fff;
 }
-#checkout .btn{
+#checkout .btn {
     border-radius: 1px;
+    margin-top: 20px;
 }
+
+#checkout .quantity-checkout
+{
+    width: 100%;
+    clear: both;
+    display: block;
+}
+
+#exp1, #exp2, #CreditCardType {
+    padding: 10px !important;
+}
+
 #checkout .btn-sm, .btn-group-sm > .btn{
     border-radius: 1px;
 }
