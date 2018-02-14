@@ -1,6 +1,6 @@
 PROJECT ECOMMERCE LARAVEL v1.0
 
-www.vistomarketing.com.br/ecommercelaravel
+http://vistomarketing.com.br/laravelecommerce/
 
 This project was built using Laravel 5.5
 By Daniel Paz
